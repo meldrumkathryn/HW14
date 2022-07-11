@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='Booklover',
+setup(name='lovers',
       version='0.1',
       description='a suite of booklover database tools',
       url='https://github.com/meldrumkathryn/HW14/tree/main/Booklover',
