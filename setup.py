@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(name='lovers',
       version='0.1',
@@ -7,4 +7,4 @@ setup(name='lovers',
       author='Kate Meldrum',
       author_email='kmm4ap@gmail.com',
       license='MIT',
-      packages=['booklover'])
+      packages=find_packages())
